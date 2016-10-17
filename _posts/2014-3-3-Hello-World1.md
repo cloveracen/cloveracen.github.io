@@ -1,6 +1,6 @@
 ---
 layout: post
-title:bbbb
+title:Github+Jekyll博客搭建
 ---
 
 <h1> Jekyll 博客使用体验之旅 </h1>
